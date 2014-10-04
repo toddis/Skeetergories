@@ -1,0 +1,2 @@
+serviceClass: todd.games.client.SkeetergoriesService
+path: CD71F8D0018BB5E599ABE84BB37D2285.gwt.rpc
